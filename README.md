@@ -32,7 +32,7 @@ Give an application and its implementation to demonstrate the implementation of 
 
 3. O(1) for the retrieval methods (peek, element, and size)
 
-## Implementation of functionalities:
+## Implementation of functionalities (Implemented on Apache Netbeans IDE 14):
 
 ### 1) Add Contact
 ![Add Contact ScreenShot](https://user-images.githubusercontent.com/89465612/202915257-0532f19a-105f-48c7-ab68-11fc9a93e710.png)
