@@ -32,4 +32,10 @@ Give an application and its implementation to demonstrate the implementation of 
 
 3. O(1) for the retrieval methods (peek, element, and size)
 
-## Implementation:
+## Implementation of functionalities:
+
+### Add Contact
+
+
+
+
