@@ -5,7 +5,7 @@
 ### Section- A
 
 ## Question:
-Give an application and its implementation to demonstrate the implementation of data structure for handling the "Favorite" contact list in mobiles.
+Give an application and its implementation to demonstrate the implementation of data structure for handling the "Favorite" contact list.
 
 ## Approach:
 1. Created a menu driven contact list application in Java with the following functionalities:-
